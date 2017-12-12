@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Feed my cat at 11 am</string>
+	<string>Business meeting at 2 pm</string>
+	<string>Feed the aquarium afternoon</string>
+	<string>Pick up my laptop</string>
+	<string>Prepare progress report for investors</string>
+	<string>Go to the Gym</string>
+	<string>Hang out with friends</string>
+	<string>Prepare next week sprint</string>
+</array>
+</plist>
